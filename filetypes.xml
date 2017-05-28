@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern=".csslintrc" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
