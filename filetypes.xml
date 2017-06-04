@@ -9,6 +9,7 @@
       <mapping pattern=".csslintrc" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="Local" type="PLAIN_TEXT" />
+      <mapping ext="tex" type="PLAIN_TEXT" />
       <mapping pattern="net_info" type="Python" />
     </extensionMap>
   </component>
